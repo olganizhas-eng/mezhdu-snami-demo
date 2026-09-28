@@ -52,4 +52,4 @@ Error generating stack: `+i.message+`
         <h1 style="font:300 26px/1.25 Georgia,serif;margin:0 0 12px">Конфигуратор не подключён для этого сайта</h1>
         <p style="margin:0;color:#5d6479">Эта копия конфигуратора лицензирована для другого адреса. Если вы владелец сайта, свяжитесь с разработчиком.</p>
       </div>
-    </div>`}export{Ka as A,wM as B,Dg as C,ZM as D,qM as E,JM as H,xg as L,ks as M,LM as P,NM as R,so as S,YM as V,UM as a,QM as b,Ob as c,Rb as d,GM as e,jM as f,Mg as g,BM as h,WM as i,bf as j,IM as k,VM as l,kM as m,KM as n,FM as o,HM as p,XM as q,lt as r,zb as s,_b as t,Iv as u,H2 as v,Nb as w,wb as x,Pf as y,S3 as z};
+    </div>`}export{Ka as A,wM as B,Dg as C,ZM as D,qM as E,xg as F,JM as H,pg as L,ks as M,LM as P,NM as R,so as S,YM as V,UM as a,QM as b,Ob as c,Rb as d,GM as e,jM as f,Mg as g,BM as h,WM as i,bf as j,IM as k,VM as l,kM as m,KM as n,FM as o,HM as p,XM as q,lt as r,zb as s,_b as t,Iv as u,H2 as v,Nb as w,wb as x,Pf as y,S3 as z};

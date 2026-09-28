@@ -1,4 +1,4 @@
-import{r as ft,o as oc,j as hi,q as Br,u as el,t as tl,v as lc,w as cc,L as uc}from"./react-MHQ6K_nh.js";/**
+import{r as ft,t as oc,j as hi,u as Br,v as el,w as tl,x as lc,y as cc,L as uc}from"./license-DvqoPE_1.js";/*! Конфигуратор постельного белья © 2026 olganizhas-eng (t.me/olgas_olg, olgas.olg@mail.ru). Сборка mezhdu-snami-2026-09-28 для: olganizhas-eng.github.io, mezhdu-snami.vercel.app. Лицензия на использование только на указанных сайтах; копирование и передача третьим лицам запрещены. *//**
  * @license
  * Copyright 2010-2026 Three.js Authors
  * SPDX-License-Identifier: MIT

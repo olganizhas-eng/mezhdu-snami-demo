@@ -1,4 +1,4 @@
-/*! Конфигуратор постельного белья © 2026 olganizhas-eng (t.me/olgas_olg, olgas.olg@mail.ru). Сборка mezhdu-snami-2026-10-17 для: olganizhas-eng.github.io, zachemknopka.ru. Лицензия на использование только на указанных сайтах; копирование и передача третьим лицам запрещены. */
+/*! Сторонние библиотеки под своими лицензиями (MIT и др.), тексты — в /THIRD_PARTY_NOTICES.txt */
 /**
  * @license
  * Copyright 2010-2026 Three.js Authors
